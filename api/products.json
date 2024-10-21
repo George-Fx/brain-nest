@@ -49,7 +49,7 @@
                 "https://george-fx.github.io/brain-nest/assets/products/01.jpg"
             ],
             "image": "https://george-fx.github.io/brain-nest/assets/products/01.jpg",
-            "imageColor": "#FFF6BC",
+            "imageColor": "#F4CBDA",
             "audience": [
                 "Men"
             ],
@@ -117,6 +117,7 @@
                 "https://george-fx.github.io/brain-nest/assets/products/02.jpg"
             ],
             "image": "https://george-fx.github.io/brain-nest/assets/products/02.jpg",
+            "imageColor": "#FBF2B8",
             "audience": [
                 "Men"
             ],
@@ -186,6 +187,7 @@
                 "https://george-fx.github.io/brain-nest/assets/products/03.jpg"
             ],
             "image": "https://george-fx.github.io/brain-nest/assets/products/03.jpg",
+            "imageColor": "#B8F3FB",
             "audience": [
                 "Men"
             ],
@@ -254,6 +256,7 @@
                 "https://george-fx.github.io/brain-nest/assets/products/04.jpg"
             ],
             "image": "https://george-fx.github.io/brain-nest/assets/products/04.jpg",
+            "imageColor": "#DEF9D5",
             "audience": [
                 "Men"
             ],
@@ -321,6 +324,7 @@
                 "https://george-fx.github.io/brain-nest/assets/products/05.jpg"
             ],
             "image": "https://george-fx.github.io/brain-nest/assets/products/05.jpg",
+            "imageColor": "#DEF9D5",
             "audience": [
                 "Women"
             ],
