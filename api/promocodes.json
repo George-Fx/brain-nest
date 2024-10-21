@@ -2,21 +2,24 @@
     "promocodes": [
         {
             "id": 1,
-            "code": "Acme Co.",
+            "name": "Acme Co.",
+            "code": "Discount24",
             "image": "https://george-fx.github.io/stephub/assets/promocodes/01.jpg",
             "discount": 50,
             "expiry": "june 30, 2024"
         },
         {
             "id": 2,
-            "code": "Barone LLC.",
+            "name": "Barone LLC.",
+            "code": "Discount24",
             "image": "https://george-fx.github.io/stephub/assets/promocodes/02.jpg",
             "discount": 30,
             "expiry": "june 30, 2024"
         },
         {
             "id": 3,
-            "code": "Abstergo Ltd.",
+            "name": "Abstergo Ltd.",
+            "code": "Discount24",
             "image": "https://george-fx.github.io/stephub/assets/promocodes/03.jpg",
             "discount": 15,
             "expiry": "june 30, 2024"
