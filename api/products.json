@@ -83,7 +83,7 @@
                 "Flexible",
                 "Comfortable"
             ],
-            "name": "Active Stride Shoes",
+            "name": "Coding Robot Toy",
             "colors": [
                 {
                     "id": 1,
@@ -131,7 +131,7 @@
             "isNew": false,
             "isTop": true,
             "ratingCount": 14,
-            "price": "83.99",
+            "price": "49.99",
             "isFeatured": true,
             "isBestSeller": true,
             "oldPrice": "109.00"
