@@ -20,27 +20,32 @@
                 {
                     "id": 1,
                     "name": "Pastel Red",
-                    "code": "#FF6262"
+                    "code": "#FFFFFF"
                 },
                 {
                     "id": 2,
                     "name": "Maya Blue",
-                    "code": "#63C7FF"
+                    "code": "#FFE923"
                 },
                 {
                     "id": 3,
                     "name": "Champagne",
-                    "code": "#F8E7CD"
+                    "code": "#FD8C06"
                 },
                 {
                     "id": 4,
                     "name": "Delft blue",
-                    "code": "#193364"
+                    "code": "#2DB3FF"
                 },
                 {
                     "id": 5,
                     "name": "Black",
-                    "code": "#000000"
+                    "code": "#FF452F"
+                },
+                {
+                    "id": 6,
+                    "name": "Black",
+                    "code": "#2DD45C"
                 }
             ],
             "images": [
@@ -88,27 +93,32 @@
                 {
                     "id": 1,
                     "name": "Pastel Red",
-                    "code": "#FF6262"
+                    "code": "#FFFFFF"
                 },
                 {
                     "id": 2,
                     "name": "Maya Blue",
-                    "code": "#63C7FF"
+                    "code": "#FFE923"
                 },
                 {
                     "id": 3,
                     "name": "Champagne",
-                    "code": "#F8E7CD"
+                    "code": "#FD8C06"
                 },
                 {
                     "id": 4,
                     "name": "Delft blue",
-                    "code": "#193364"
+                    "code": "#2DB3FF"
                 },
                 {
                     "id": 5,
                     "name": "Black",
-                    "code": "#000000"
+                    "code": "#FF452F"
+                },
+                {
+                    "id": 6,
+                    "name": "Black",
+                    "code": "#2DD45C"
                 }
             ],
             "images": [
@@ -158,27 +168,32 @@
                 {
                     "id": 1,
                     "name": "Pastel Red",
-                    "code": "#FF6262"
+                    "code": "#FFFFFF"
                 },
                 {
                     "id": 2,
                     "name": "Maya Blue",
-                    "code": "#63C7FF"
+                    "code": "#FFE923"
                 },
                 {
                     "id": 3,
                     "name": "Champagne",
-                    "code": "#F8E7CD"
+                    "code": "#FD8C06"
                 },
                 {
                     "id": 4,
                     "name": "Delft blue",
-                    "code": "#193364"
+                    "code": "#2DB3FF"
                 },
                 {
                     "id": 5,
                     "name": "Black",
-                    "code": "#000000"
+                    "code": "#FF452F"
+                },
+                {
+                    "id": 6,
+                    "name": "Black",
+                    "code": "#2DD45C"
                 }
             ],
             "images": [
@@ -227,27 +242,32 @@
                 {
                     "id": 1,
                     "name": "Pastel Red",
-                    "code": "#FF6262"
+                    "code": "#FFFFFF"
                 },
                 {
                     "id": 2,
                     "name": "Maya Blue",
-                    "code": "#63C7FF"
+                    "code": "#FFE923"
                 },
                 {
                     "id": 3,
                     "name": "Champagne",
-                    "code": "#F8E7CD"
+                    "code": "#FD8C06"
                 },
                 {
                     "id": 4,
                     "name": "Delft blue",
-                    "code": "#193364"
+                    "code": "#2DB3FF"
                 },
                 {
                     "id": 5,
                     "name": "Black",
-                    "code": "#000000"
+                    "code": "#FF452F"
+                },
+                {
+                    "id": 6,
+                    "name": "Black",
+                    "code": "#2DD45C"
                 }
             ],
             "images": [
@@ -295,27 +315,32 @@
                 {
                     "id": 1,
                     "name": "Pastel Red",
-                    "code": "#FF6262"
+                    "code": "#FFFFFF"
                 },
                 {
                     "id": 2,
                     "name": "Maya Blue",
-                    "code": "#63C7FF"
+                    "code": "#FFE923"
                 },
                 {
                     "id": 3,
                     "name": "Champagne",
-                    "code": "#F8E7CD"
+                    "code": "#FD8C06"
                 },
                 {
                     "id": 4,
                     "name": "Delft blue",
-                    "code": "#193364"
+                    "code": "#2DB3FF"
                 },
                 {
                     "id": 5,
                     "name": "Black",
-                    "code": "#000000"
+                    "code": "#FF452F"
+                },
+                {
+                    "id": 6,
+                    "name": "Black",
+                    "code": "#2DD45C"
                 }
             ],
             "images": [
@@ -365,27 +390,32 @@
                 {
                     "id": 1,
                     "name": "Pastel Red",
-                    "code": "#FF6262"
+                    "code": "#FFFFFF"
                 },
                 {
                     "id": 2,
                     "name": "Maya Blue",
-                    "code": "#63C7FF"
+                    "code": "#FFE923"
                 },
                 {
                     "id": 3,
                     "name": "Champagne",
-                    "code": "#F8E7CD"
+                    "code": "#FD8C06"
                 },
                 {
                     "id": 4,
                     "name": "Delft blue",
-                    "code": "#193364"
+                    "code": "#2DB3FF"
                 },
                 {
                     "id": 5,
                     "name": "Black",
-                    "code": "#000000"
+                    "code": "#FF452F"
+                },
+                {
+                    "id": 6,
+                    "name": "Black",
+                    "code": "#2DD45C"
                 }
             ],
             "images": [
