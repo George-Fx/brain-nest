@@ -1,0 +1,28 @@
+{
+    "types": [
+        {
+            "id": 1,
+            "name": "Imaginative Play"
+        },
+        {
+            "id": 2,
+            "name": "Construction and Building"
+        },
+        {
+            "id": 3,
+            "name": "Cooperative Play"
+        },
+        {
+            "id": 4,
+            "name": "Puzzle Games"
+        },
+        {
+            "id": 5,
+            "name": "Board Games"
+        },
+        {
+            "id": 6,
+            "name": "Outdoor Play"
+        }
+    ]
+}
