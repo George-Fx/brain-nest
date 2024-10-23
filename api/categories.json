@@ -2,7 +2,7 @@
     "categories": [
         {
             "id": 1,
-            "name": "Building and /n Construction",
+            "name": "Building and Construction",
             "image": "https://george-fx.github.io/brain-nest/assets/categories/01.jpg",
             "audience": [
                 "Men",
@@ -11,7 +11,7 @@
         },
         {
             "id": 2,
-            "name": "Learning Tools /n and Resources",
+            "name": "Learning Tools and Resources",
             "image": "https://george-fx.github.io/brain-nest/assets/categories/02.jpg",
             "audience": [
                 "Men",
