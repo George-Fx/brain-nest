@@ -51,7 +51,7 @@
                 "Building and Construction"
             ],
             "ageGroup": "5-12 years",
-            "type": "Construction and Building",
+            "type": ["Construction and Building"],
             "description": "Introduce your child to the exciting world of coding with our CodeMaster interactive robot toy. Designed to make learning programming fun and accessible, this innovative toy off...",
             "rating": 3,
             "quantity": null,
