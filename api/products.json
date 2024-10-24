@@ -51,7 +51,7 @@
                 "Building and Construction"
             ],
             "ageGroup": "5-12 years",
-            "type": [
+            "playTypes": [
                 "Construction and Building"
             ],
             "description": "Introduce your child to the exciting world of coding with our CodeMaster interactive robot toy. Designed to make learning programming fun and accessible, this innovative toy off...",
@@ -117,7 +117,7 @@
             "ageGroup": [
                 "5-12 years"
             ],
-            "type": [
+            "playTypes": [
                 "Imaginative Play"
             ],
             "description": "Introduce your child to the exciting world of coding with our CodeMaster interactive robot toy. Designed to make learning programming fun and accessible, this innovative toy off...",
@@ -186,7 +186,7 @@
                 "3-5 years",
                 "5-12 years"
             ],
-            "type": [
+            "playTypes": [
                 "Imaginative Play",
                 "Construction and Building",
                 "Educational Games and Puzzles"
@@ -258,7 +258,7 @@
                 "3-5 years",
                 "5-12 years"
             ],
-            "type": [
+            "playTypes": [
                 "Educational Games and Puzzles",
                 "Imaginative Play"
             ],
@@ -331,7 +331,7 @@
                 "3-5 years",
                 "5-12 years"
             ],
-            "type": [
+            "playTypes": [
                 "Imaginative Play ",
                 "Creative Arts"
             ],
@@ -402,7 +402,7 @@
                 "3-5 years",
                 "5-12 years"
             ],
-            "type": [
+            "playTypes": [
                 "Imaginative Play ",
                 "Creative Arts"
             ],
