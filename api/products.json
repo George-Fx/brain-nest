@@ -47,9 +47,13 @@
             ],
             "image": "https://george-fx.github.io/brain-nest/assets/products/01.jpg",
             "imageColor": "#F4CBDA",
-            "categories": ["Building and Construction"],
+            "categories": [
+                "Building and Construction"
+            ],
             "ageGroup": "5-12 years",
-            "type": ["Construction and Building"],
+            "type": [
+                "Construction and Building"
+            ],
             "description": "Introduce your child to the exciting world of coding with our CodeMaster interactive robot toy. Designed to make learning programming fun and accessible, this innovative toy off...",
             "rating": 3,
             "promotion": "Unlock the Power of Play",
@@ -110,8 +114,12 @@
             "categories": [
                 "Coding and Robotics"
             ],
-            "ageGroup": ["5-12 years"],
-            "type": ["Imaginative Play"],
+            "ageGroup": [
+                "5-12 years"
+            ],
+            "type": [
+                "Imaginative Play"
+            ],
             "description": "Introduce your child to the exciting world of coding with our CodeMaster interactive robot toy. Designed to make learning programming fun and accessible, this innovative toy off...",
             "rating": 4,
             "promotion": "Welcome To StepHub! 50% Off",
@@ -171,13 +179,9 @@
             ],
             "image": "https://george-fx.github.io/brain-nest/assets/products/03.jpg",
             "imageColor": "#B8F3FB",
-            "audience": [
-                "Men"
-            ],
             "categories": [
                 "Specialty Shoes"
             ],
-           
             "description": "Introduce your child to the exciting world of coding with our CodeMaster interactive robot toy. Designed to make learning programming fun and accessible, this innovative toy off...",
             "rating": 3,
             "quantity": null,
@@ -238,9 +242,6 @@
             ],
             "image": "https://george-fx.github.io/brain-nest/assets/products/04.jpg",
             "imageColor": "#DEF9D5",
-            "audience": [
-                "Men"
-            ],
             "categories": [
                 "Formal Shoes"
             ],
@@ -370,9 +371,6 @@
             ],
             "image": "https://george-fx.github.io/brain-nest/assets/products/06.jpg",
             "imageColor": "#F8D5E3",
-            "audience": [
-                "Men"
-            ],
             "categories": [
                 "Specialty Shoes"
             ],
